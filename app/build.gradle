@@ -44,6 +44,6 @@ dependencies {
     api "$library.androidx_fragment_ktx"
 
 //    api project(":core")
-    api project(":glide")
+    api project(':yimageload-glide')
 
 }
